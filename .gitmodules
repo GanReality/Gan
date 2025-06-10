@@ -1,0 +1,3 @@
+[submodule "bad"]
+	path = bad
+	url = https://github.com/GanReality/attack.git
